@@ -1,0 +1,15 @@
+{
+  "name": "aituber-content-autopilot-v3-existing-videos",
+  "version": "3.0.0",
+  "description": "AITuber existing-video exporter, downloader and publication API dashboard",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
